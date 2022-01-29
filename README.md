@@ -1,5 +1,5 @@
 Hello, my name's Ibrahim. I am Studying Software-development and am interested more in low-level stuff. Currently learning compiler design
-and trying to write one(In C; I don't have much experience with other languages, sadly) as i learn. I am planning to learn C# and do some 
+and trying to write one(In C; I don't have much experience with other languages, sadly) as i learn. I am planning to learn .NET and C# and do some 
 projects with it too(because it seems to be pretty useful and it is also the language we're going to learn in college).
 
 I also have some knowledge in Electronics and basic things about Compter architecture. I know how numbers are represented in binary system,
