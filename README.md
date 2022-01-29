@@ -10,6 +10,7 @@ i am planning to dive more into it in the near future.
 I would also like to get some experience in teamwork. So, if you have an interesting project and need a C programmer, here's how you can contact me:
 
 e-mail: ibragim.sigauri2012@gmail.com
+
 Tel/Watsapp: +4915736512392
 
 Have a nice day and stay healthy!
