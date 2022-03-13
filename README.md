@@ -11,6 +11,4 @@ I would also like to get some experience in teamwork. So, if you have an interes
 
 e-mail: ibragim.sigauri2012@gmail.com
 
-Tel/Watsapp: +4915736512392
-
 Have a nice day and stay healthy!
